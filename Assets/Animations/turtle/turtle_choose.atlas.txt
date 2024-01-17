@@ -1,0 +1,216 @@
+
+turtle_choose.png
+size: 507,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm behind
+  rotate: false
+  xy: 293, 55
+  size: 52, 56
+  orig: 53, 56
+  offset: 1, 0
+  index: -1
+arm front
+  rotate: false
+  xy: 293, 0
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 370, 326
+  size: 196, 116
+  orig: 196, 116
+  offset: 0, 0
+  index: -1
+base above
+  rotate: false
+  xy: 0, 105
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+body behind
+  rotate: false
+  xy: 358, 213
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+body front
+  rotate: true
+  xy: 196, 17
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 446, 208
+  size: 116, 55
+  orig: 118, 57
+  offset: 1, 1
+  index: -1
+eyebr L
+  rotate: true
+  xy: 488, 469
+  size: 22, 11
+  orig: 24, 13
+  offset: 1, 1
+  index: -1
+eyebr R
+  rotate: true
+  xy: 488, 445
+  size: 22, 11
+  orig: 24, 13
+  offset: 1, 1
+  index: -1
+eyebr sad L
+  rotate: false
+  xy: 350, 3
+  size: 37, 20
+  orig: 39, 22
+  offset: 1, 1
+  index: -1
+eyebr sad R
+  rotate: true
+  xy: 441, 89
+  size: 37, 20
+  orig: 39, 22
+  offset: 1, 1
+  index: -1
+eyecover L
+  rotate: true
+  xy: 445, 149
+  size: 57, 56
+  orig: 59, 58
+  offset: 1, 1
+  index: -1
+eyecover R
+  rotate: false
+  xy: 347, 70
+  size: 56, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 0, 11
+  size: 184, 92
+  orig: 186, 94
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 196, 189
+  size: 160, 159
+  orig: 162, 161
+  offset: 1, 1
+  index: -1
+iris L
+  rotate: false
+  xy: 395, 27
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+iris R
+  rotate: false
+  xy: 350, 25
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+iris happy L
+  rotate: false
+  xy: 441, 57
+  size: 29, 30
+  orig: 31, 32
+  offset: 1, 1
+  index: -1
+iris happy L1
+  rotate: true
+  xy: 488, 493
+  size: 29, 19
+  orig: 31, 21
+  offset: 1, 1
+  index: -1
+iris happy R
+  rotate: false
+  xy: 438, 26
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+iris happy R1
+  rotate: true
+  xy: 472, 61
+  size: 30, 20
+  orig: 32, 22
+  offset: 1, 1
+  index: -1
+line 1
+  rotate: true
+  xy: 196, 113
+  size: 74, 130
+  orig: 74, 130
+  offset: 0, 0
+  index: -1
+line 2
+  rotate: true
+  xy: 358, 128
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+mouth normal
+  rotate: true
+  xy: 328, 134
+  size: 53, 25
+  orig: 55, 27
+  offset: 1, 1
+  index: -1
+mouth sad
+  rotate: true
+  xy: 405, 73
+  size: 53, 34
+  orig: 55, 36
+  offset: 1, 1
+  index: -1
+mouth sad 1
+  rotate: false
+  xy: 445, 129
+  size: 53, 18
+  orig: 55, 20
+  offset: 1, 1
+  index: -1
+round
+  rotate: false
+  xy: 196, 350
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 301
+  size: 194, 221
+  orig: 196, 223
+  offset: 1, 1
+  index: -1
+sweat
+  rotate: false
+  xy: 358, 331
+  size: 10, 17
+  orig: 12, 19
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: false
+  xy: 463, 93
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1

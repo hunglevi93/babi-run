@@ -1,0 +1,391 @@
+
+bunny_run.png
+size: 713,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm L
+  rotate: true
+  xy: 347, 2
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 255, 0
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 372, 409
+  size: 194, 114
+  orig: 196, 116
+  offset: 1, 1
+  index: -1
+base above
+  rotate: false
+  xy: 0, 106
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 370, 183
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 196, 318
+  size: 174, 205
+  orig: 174, 205
+  offset: 0, 0
+  index: -1
+ear L
+  rotate: false
+  xy: 491, 271
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+ear R
+  rotate: true
+  xy: 0, 32
+  size: 72, 132
+  orig: 72, 132
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 557, 336
+  size: 119, 51
+  orig: 119, 51
+  offset: 0, 0
+  index: -1
+eyebr L
+  rotate: false
+  xy: 500, 0
+  size: 42, 30
+  orig: 44, 33
+  offset: 1, 2
+  index: -1
+eyebr R
+  rotate: false
+  xy: 454, 0
+  size: 44, 30
+  orig: 46, 32
+  offset: 1, 1
+  index: -1
+eyecover L
+  rotate: false
+  xy: 659, 63
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+eyecover R
+  rotate: false
+  xy: 659, 106
+  size: 43, 48
+  orig: 45, 50
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 568, 389
+  size: 140, 134
+  orig: 142, 136
+  offset: 1, 1
+  index: -1
+hip
+  rotate: false
+  xy: 557, 271
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+iris L
+  rotate: true
+  xy: 544, 0
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+iris R
+  rotate: true
+  xy: 575, 0
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+iris happy L
+  rotate: false
+  xy: 645, 37
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+iris happy L1
+  rotate: false
+  xy: 634, 0
+  size: 25, 17
+  orig: 27, 19
+  offset: 1, 1
+  index: -1
+iris happy R
+  rotate: false
+  xy: 319, 117
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+iris happy R1
+  rotate: false
+  xy: 606, 0
+  size: 26, 17
+  orig: 28, 19
+  offset: 1, 1
+  index: -1
+leg L
+  rotate: false
+  xy: 655, 156
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+leg R
+  rotate: false
+  xy: 296, 1
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+line L
+  rotate: true
+  xy: 0, 1
+  size: 5, 41
+  orig: 5, 41
+  offset: 0, 0
+  index: -1
+line R
+  rotate: false
+  xy: 704, 220
+  size: 5, 41
+  orig: 5, 41
+  offset: 0, 0
+  index: -1
+mouth normal
+  rotate: false
+  xy: 614, 147
+  size: 39, 25
+  orig: 41, 27
+  offset: 1, 1
+  index: -1
+mouth sad 1
+  rotate: true
+  xy: 578, 174
+  size: 38, 13
+  orig: 40, 15
+  offset: 1, 1
+  index: -1
+mouth tired
+  rotate: false
+  xy: 672, 39
+  size: 25, 22
+  orig: 27, 24
+  offset: 1, 1
+  index: -1
+nose
+  rotate: true
+  xy: 699, 43
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+rabbit shadow
+  rotate: false
+  xy: 468, 115
+  size: 122, 17
+  orig: 124, 19
+  offset: 1, 1
+  index: -1
+round
+  rotate: false
+  xy: 196, 144
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 302
+  size: 194, 221
+  orig: 196, 223
+  offset: 1, 1
+  index: -1
+sign 1
+  rotate: true
+  xy: 547, 32
+  size: 69, 65
+  orig: 100, 100
+  offset: 22, 15
+  index: -1
+sign 2
+  rotate: true
+  xy: 490, 134
+  size: 78, 86
+  orig: 100, 100
+  offset: 18, 4
+  index: -1
+sign 3
+  rotate: false
+  xy: 665, 263
+  size: 48, 60
+  orig: 100, 100
+  offset: 24, 12
+  index: -1
+sign 4
+  rotate: true
+  xy: 469, 32
+  size: 69, 76
+  orig: 100, 100
+  offset: 19, 9
+  index: -1
+star exp cup/star_00000
+  rotate: false
+  xy: 699, 26
+  size: 14, 15
+  orig: 150, 75
+  offset: 68, 27
+  index: -1
+star exp cup/star_00001
+  rotate: false
+  xy: 592, 108
+  size: 18, 17
+  orig: 150, 75
+  offset: 66, 26
+  index: -1
+star exp cup/star_00002
+  rotate: false
+  xy: 578, 148
+  size: 29, 24
+  orig: 150, 75
+  offset: 60, 22
+  index: -1
+star exp cup/star_00003
+  rotate: true
+  xy: 614, 19
+  size: 45, 29
+  orig: 150, 75
+  offset: 52, 20
+  index: -1
+star exp cup/star_00004
+  rotate: true
+  xy: 678, 325
+  size: 62, 35
+  orig: 150, 75
+  offset: 44, 17
+  index: -1
+star exp cup/star_00005
+  rotate: true
+  xy: 614, 66
+  size: 79, 43
+  orig: 150, 75
+  offset: 36, 13
+  index: -1
+star exp cup/star_00006
+  rotate: true
+  xy: 603, 174
+  size: 95, 50
+  orig: 150, 75
+  offset: 27, 9
+  index: -1
+star exp cup/star_00007
+  rotate: false
+  xy: 488, 214
+  size: 113, 55
+  orig: 150, 75
+  offset: 18, 7
+  index: -1
+star exp cup/star_00008
+  rotate: false
+  xy: 134, 54
+  size: 116, 50
+  orig: 150, 75
+  offset: 16, 9
+  index: -1
+star exp cup/star_00009
+  rotate: false
+  xy: 370, 135
+  size: 118, 46
+  orig: 150, 75
+  offset: 16, 12
+  index: -1
+star exp cup/star_00010
+  rotate: false
+  xy: 134, 9
+  size: 119, 43
+  orig: 150, 75
+  offset: 15, 13
+  index: -1
+star exp cup/star_00011
+  rotate: false
+  xy: 347, 92
+  size: 119, 41
+  orig: 150, 75
+  offset: 15, 14
+  index: -1
+star exp cup/star_00012
+  rotate: false
+  xy: 347, 51
+  size: 120, 39
+  orig: 150, 75
+  offset: 14, 15
+  index: -1
+star exp cup/star_00013
+  rotate: false
+  xy: 196, 106
+  size: 121, 36
+  orig: 150, 75
+  offset: 13, 16
+  index: -1
+star exp cup/star_00014
+  rotate: false
+  xy: 0, 8
+  size: 118, 22
+  orig: 150, 75
+  offset: 14, 18
+  index: -1
+star exp cup/star_00015
+  rotate: false
+  xy: 468, 103
+  size: 118, 10
+  orig: 150, 75
+  offset: 13, 29
+  index: -1
+sweat
+  rotate: false
+  xy: 593, 198
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: false
+  xy: 592, 127
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+yellow star
+  rotate: true
+  xy: 372, 291
+  size: 116, 117
+  orig: 128, 128
+  offset: 8, 6
+  index: -1

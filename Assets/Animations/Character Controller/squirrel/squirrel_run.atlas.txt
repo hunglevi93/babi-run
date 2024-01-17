@@ -1,0 +1,370 @@
+
+squirrel_run.png
+size: 856,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm behind
+  rotate: true
+  xy: 841, 156
+  size: 22, 15
+  orig: 24, 17
+  offset: 1, 1
+  index: -1
+arm front
+  rotate: true
+  xy: 730, 7
+  size: 22, 14
+  orig: 24, 16
+  offset: 1, 1
+  index: -1
+base
+  rotate: false
+  xy: 488, 213
+  size: 194, 114
+  orig: 196, 116
+  offset: 1, 1
+  index: -1
+base above
+  rotate: false
+  xy: 488, 329
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 685, 157
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 209, 7
+  size: 174, 205
+  orig: 174, 205
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 385, 121
+  size: 122, 62
+  orig: 124, 64
+  offset: 1, 1
+  index: -1
+eyebr L
+  rotate: true
+  xy: 712, 0
+  size: 28, 16
+  orig: 30, 18
+  offset: 1, 1
+  index: -1
+eyebr R
+  rotate: true
+  xy: 841, 180
+  size: 28, 15
+  orig: 30, 17
+  offset: 1, 1
+  index: -1
+eyebr sad L
+  rotate: false
+  xy: 675, 30
+  size: 44, 24
+  orig: 46, 26
+  offset: 1, 1
+  index: -1
+eyebr sad R
+  rotate: true
+  xy: 815, 163
+  size: 45, 24
+  orig: 47, 26
+  offset: 1, 1
+  index: -1
+eyecover L
+  rotate: false
+  xy: 685, 106
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1
+eyecover R
+  rotate: true
+  xy: 682, 56
+  size: 48, 49
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 0, 2
+  size: 207, 210
+  orig: 207, 210
+  offset: 0, 0
+  index: -1
+iris L
+  rotate: false
+  xy: 566, 10
+  size: 37, 36
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+iris R
+  rotate: false
+  xy: 605, 0
+  size: 37, 36
+  orig: 39, 38
+  offset: 1, 1
+  index: -1
+iris happy L
+  rotate: true
+  xy: 806, 114
+  size: 32, 31
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+iris happy L1
+  rotate: false
+  xy: 762, 92
+  size: 32, 20
+  orig: 34, 22
+  offset: 1, 1
+  index: -1
+iris happy R
+  rotate: false
+  xy: 796, 81
+  size: 32, 31
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+iris happy R1
+  rotate: true
+  xy: 830, 80
+  size: 32, 21
+  orig: 34, 23
+  offset: 1, 1
+  index: -1
+leg behind
+  rotate: true
+  xy: 806, 210
+  size: 21, 35
+  orig: 22, 36
+  offset: 1, 1
+  index: -1
+leg front
+  rotate: true
+  xy: 675, 9
+  size: 19, 35
+  orig: 21, 35
+  offset: 1, 0
+  index: -1
+mouth happy
+  rotate: true
+  xy: 736, 110
+  size: 45, 24
+  orig: 47, 26
+  offset: 1, 1
+  index: -1
+mouth sad
+  rotate: false
+  xy: 762, 114
+  size: 42, 32
+  orig: 44, 34
+  offset: 1, 1
+  index: -1
+round
+  rotate: false
+  xy: 684, 351
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 292, 302
+  size: 194, 221
+  orig: 196, 223
+  offset: 1, 1
+  index: -1
+sign 1
+  rotate: false
+  xy: 611, 75
+  size: 69, 65
+  orig: 100, 100
+  offset: 22, 15
+  index: -1
+sign 2
+  rotate: false
+  xy: 292, 214
+  size: 78, 86
+  orig: 100, 100
+  offset: 18, 4
+  index: -1
+sign 3
+  rotate: false
+  xy: 765, 148
+  size: 48, 60
+  orig: 100, 100
+  offset: 24, 12
+  index: -1
+sign 4
+  rotate: true
+  xy: 607, 142
+  size: 69, 76
+  orig: 100, 100
+  offset: 19, 9
+  index: -1
+squirrel shadow
+  rotate: false
+  xy: 685, 210
+  size: 119, 20
+  orig: 121, 22
+  offset: 1, 1
+  index: -1
+star exp cup/star_00000
+  rotate: false
+  xy: 746, 93
+  size: 14, 15
+  orig: 150, 75
+  offset: 68, 27
+  index: -1
+star exp cup/star_00001
+  rotate: true
+  xy: 839, 115
+  size: 18, 17
+  orig: 150, 75
+  offset: 66, 26
+  index: -1
+star exp cup/star_00002
+  rotate: false
+  xy: 644, 12
+  size: 29, 24
+  orig: 150, 75
+  offset: 60, 22
+  index: -1
+star exp cup/star_00003
+  rotate: false
+  xy: 514, 1
+  size: 45, 29
+  orig: 150, 75
+  offset: 52, 20
+  index: -1
+star exp cup/star_00004
+  rotate: false
+  xy: 611, 38
+  size: 62, 35
+  orig: 150, 75
+  offset: 44, 17
+  index: -1
+star exp cup/star_00005
+  rotate: true
+  xy: 566, 48
+  size: 79, 43
+  orig: 150, 75
+  offset: 36, 13
+  index: -1
+star exp cup/star_00006
+  rotate: true
+  xy: 514, 32
+  size: 95, 50
+  orig: 150, 75
+  offset: 27, 9
+  index: -1
+star exp cup/star_00007
+  rotate: false
+  xy: 372, 245
+  size: 113, 55
+  orig: 150, 75
+  offset: 18, 7
+  index: -1
+star exp cup/star_00008
+  rotate: true
+  xy: 802, 233
+  size: 116, 50
+  orig: 150, 75
+  offset: 16, 9
+  index: -1
+star exp cup/star_00009
+  rotate: false
+  xy: 487, 165
+  size: 118, 46
+  orig: 150, 75
+  offset: 16, 12
+  index: -1
+star exp cup/star_00010
+  rotate: true
+  xy: 385, 0
+  size: 119, 43
+  orig: 150, 75
+  offset: 15, 13
+  index: -1
+star exp cup/star_00011
+  rotate: true
+  xy: 430, 0
+  size: 119, 41
+  orig: 150, 75
+  offset: 15, 14
+  index: -1
+star exp cup/star_00012
+  rotate: true
+  xy: 473, 0
+  size: 120, 39
+  orig: 150, 75
+  offset: 14, 15
+  index: -1
+star exp cup/star_00013
+  rotate: true
+  xy: 449, 122
+  size: 121, 36
+  orig: 150, 75
+  offset: 13, 16
+  index: -1
+star exp cup/star_00014
+  rotate: false
+  xy: 487, 141
+  size: 118, 22
+  orig: 150, 75
+  offset: 14, 18
+  index: -1
+star exp cup/star_00015
+  rotate: false
+  xy: 487, 129
+  size: 118, 10
+  orig: 150, 75
+  offset: 13, 29
+  index: -1
+sweat
+  rotate: false
+  xy: 843, 210
+  size: 12, 21
+  orig: 14, 23
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 0, 214
+  size: 290, 309
+  orig: 294, 309
+  offset: 0, 0
+  index: -1
+teeth
+  rotate: true
+  xy: 721, 31
+  size: 23, 16
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 839, 135
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+yellow star
+  rotate: false
+  xy: 684, 232
+  size: 116, 117
+  orig: 128, 128
+  offset: 8, 6
+  index: -1

@@ -1,0 +1,223 @@
+
+bunny_choose.png
+size: 538,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm L
+  rotate: false
+  xy: 490, 418
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+arm R
+  rotate: false
+  xy: 134, 0
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 372, 327
+  size: 196, 116
+  orig: 196, 116
+  offset: 0, 0
+  index: -1
+base above
+  rotate: false
+  xy: 0, 106
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 404, 37
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 196, 318
+  size: 174, 205
+  orig: 174, 205
+  offset: 0, 0
+  index: -1
+ear L
+  rotate: false
+  xy: 338, 6
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+ear R
+  rotate: true
+  xy: 0, 32
+  size: 72, 132
+  orig: 72, 132
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 370, 155
+  size: 119, 51
+  orig: 119, 51
+  offset: 0, 0
+  index: -1
+eyebr L
+  rotate: false
+  xy: 46, 0
+  size: 42, 30
+  orig: 44, 33
+  offset: 1, 2
+  index: -1
+eyebr R
+  rotate: false
+  xy: 0, 0
+  size: 44, 30
+  orig: 46, 32
+  offset: 1, 1
+  index: -1
+eyecover L
+  rotate: false
+  xy: 490, 330
+  size: 41, 41
+  orig: 43, 43
+  offset: 1, 1
+  index: -1
+eyecover R
+  rotate: true
+  xy: 490, 373
+  size: 43, 48
+  orig: 45, 50
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 196, 8
+  size: 140, 134
+  orig: 142, 136
+  offset: 1, 1
+  index: -1
+iris L
+  rotate: true
+  xy: 90, 0
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+iris R
+  rotate: false
+  xy: 490, 299
+  size: 30, 29
+  orig: 32, 31
+  offset: 1, 1
+  index: -1
+iris happy L
+  rotate: false
+  xy: 473, 11
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+iris happy L1
+  rotate: true
+  xy: 490, 232
+  size: 25, 17
+  orig: 27, 19
+  offset: 1, 1
+  index: -1
+iris happy R
+  rotate: false
+  xy: 445, 10
+  size: 26, 25
+  orig: 28, 27
+  offset: 1, 1
+  index: -1
+iris happy R1
+  rotate: true
+  xy: 505, 271
+  size: 26, 17
+  orig: 28, 19
+  offset: 1, 1
+  index: -1
+line L
+  rotate: false
+  xy: 533, 330
+  size: 5, 41
+  orig: 5, 41
+  offset: 0, 0
+  index: -1
+line R
+  rotate: false
+  xy: 175, 44
+  size: 5, 41
+  orig: 5, 41
+  offset: 0, 0
+  index: -1
+mouth normal
+  rotate: false
+  xy: 404, 10
+  size: 39, 25
+  orig: 41, 27
+  offset: 1, 1
+  index: -1
+mouth sad 1
+  rotate: true
+  xy: 490, 259
+  size: 38, 13
+  orig: 40, 15
+  offset: 1, 1
+  index: -1
+mouth tired
+  rotate: false
+  xy: 490, 208
+  size: 25, 22
+  orig: 27, 24
+  offset: 1, 1
+  index: -1
+nose
+  rotate: true
+  xy: 522, 310
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+round
+  rotate: false
+  xy: 196, 144
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 0, 302
+  size: 194, 221
+  orig: 196, 223
+  offset: 1, 1
+  index: -1
+sweat
+  rotate: true
+  xy: 404, 0
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+tongue
+  rotate: true
+  xy: 175, 87
+  size: 17, 19
+  orig: 19, 21
+  offset: 1, 1
+  index: -1
+yellow star
+  rotate: false
+  xy: 372, 208
+  size: 116, 117
+  orig: 128, 128
+  offset: 8, 6
+  index: -1
